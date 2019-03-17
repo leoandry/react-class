@@ -1,0 +1,55 @@
+.box{
+    border: 1px solid #000;
+    overflow: hidden;
+    padding-bottom: 10px
+}
+.menu{
+    background: rgb(71, 71, 67);
+    
+}
+.putih{
+    color: #fff
+}
+.abu{
+    color: #CCCCCC
+}
+.right{
+    float: right impotant!;
+    text-align: right impotant!;
+    
+}
+.profileBox{
+    padding: 5px !important;
+    margin-top: 5px !important;
+    margin-right: 5px !important;
+    margin-left: 5px !important;
+    width: 100%;
+    background: rgb(143, 142, 138) !important
+}
+.photoBox{
+    margin: 4px;
+    height: 200px;
+    width: 20%;
+    float: left;
+    background: rgb(107, 106, 103);
+    
+}
+.biodata{
+    width: 70%;
+    float:left;
+    margin-left: 5px !important;
+
+}
+.title{
+    font-size: 18px !important;
+    font-weight: bold;
+}
+.card{
+    background: rgb(143, 142, 138) !important
+}
+.titleCard{
+    border-bottom: 1px dashed #000;
+}
+.buttonView{
+    width: 30%;
+}
